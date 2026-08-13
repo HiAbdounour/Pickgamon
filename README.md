@@ -15,6 +15,18 @@ L'objectif est de **finir avec 4 cartes identiques** avant les autres joueurs.
 Le quotat de pioche est **fixé à 4** sur l'ensemble d'une partie; ce nombre monte à **5 si vous activez la carte ``WIN``**.\
 Mais attention ! Des cartes spéciales se cachent dans cette pioche et peuvent pimenter votre avancée vers la victoire !
 
+## Jouer
+Cloner le repo dans votre ordinateur :
+```bash
+git clone https://github.com/HiAbdounour/Pickgamon
+cd Pickgamon
+```
+et lancer le jeu avec la commande `python game.py`.
+
+Les **prérequis** sont :
+- Python (développé sous 3.11 mais une version supérieure fonctionne)
+- pygame (ou pygame-ce)
+
 ## Les 8 cartes
 
 Voici les 8 cartes normales différentes utilisées dans le jeu. Chacune de ces cartes est présente exactement 4 fois. Posséder 4 cartes identiques permet de gagner la partie.
