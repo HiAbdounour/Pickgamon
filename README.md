@@ -94,7 +94,7 @@ Actuellement, je ne prévois pas de faire de mises à jour mais je ne mets pas l
 À noter (bug connu):
 - les joueurs 2 (à gauche) et 3 (à droite) peuvent avoir leur dernière carte à moitié coupée (sort à moitié de la fenêtre). Ce bug ne gêne pas au jeu.
 
-## Licences :
+## Licences
 ```
 Les assets (cartes et fonds) sont réalisés par moi-même et sont fournis avec la licence CC0.
 
